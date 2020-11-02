@@ -1,0 +1,4 @@
+# Created at 2020-10-20T16:23:47.891
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Selenium_Automation\Smart_ticket\SmartData_GoogleSheet\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
